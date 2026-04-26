@@ -1,0 +1,23 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*Credentials.java
+
+# Eclipse metadata
+.metadata
+.classpath
+.project
+.settings/
+bin/
+
+# Build folders
+target/
+build/
